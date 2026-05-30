@@ -87,7 +87,7 @@
                                 <a href="{{ route('desa.index') }}"
                                     class="d-flex align-items-center pb-1 position-relative">
                                     <div class="text-bg-light rounded-1 me-1 p-2 d-flex align-items-center justify-content-center"
-                                        style="background: rgba(0,0,0,0.1) !important">
+                                        style="php at">
                                         <i class="bi bi-motherboard-fill fs-3" style="color: rgb(3, 177, 200)" /></i>
                                     </div>
                                     <div class="d-inline-block">
